@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0",
+    "typescript": "^5.0.3"
+  },
+  "dependencies": {
+    "@polkadot/api": "^7.8.1",
+    "@polkadot/types": "^7.8.1",
+    "web3": "^1.5.1"
+  },
+  "name": "polkadotjs_demo",
+  "description": "",
+  "strict": false,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkcheng/polkadotjs_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/linkcheng/polkadotjs_demo#readme"
+}
